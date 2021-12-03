@@ -1,0 +1,55 @@
+* {
+    box-sizing: border-box;
+    margin: 20px;
+    padding: 0;
+    border: 50px;
+    outline: 0;
+    font: inherit;
+    vertical-align: baseline;
+    text-align: inherit;
+    color: inherit;
+    background: #122239;
+}
+
+.Botones a{
+    cursor: pointer;
+    display: inline-block;
+    text-align: center;
+    white-space: nowrap;
+    font-size: 17px;
+    line-height: 1.17648;
+    font-weight: 400;
+    letter-spacing: -.022em;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    min-width: 28px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-radius: 980px;
+    background: #0071e3;
+    color: #fff;
+    list-style-type: none;
+}
+.Menu {
+    font-size: 40px;
+    text-decoration: underline;
+    font-weight: bold;
+    text-align: center;
+}
+
+/*
+    font-size: 25px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    list-style-type: none;
+
+
+    border-style: solid;
+        border-radius: 50px;
+        border-color: #092642;
+        background-color: #092642;
+        padding: 0px;
+        list-style-type: none;
+*/
+
